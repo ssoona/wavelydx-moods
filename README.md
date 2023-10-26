@@ -11,5 +11,6 @@ Lambda
 - Chosen for simplicity in deploying/testing
 
 Further components I would want to add
-- Caching/CDN
+- Define a proper API
+- Caching/CDN (CloudFront)
 - AWS SDK/Cloudformation for infrastructure provisioning
